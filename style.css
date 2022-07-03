@@ -1,0 +1,14 @@
+.second{
+    width: 500px;
+    height: 400px;
+    background-color: aqua;
+    color: blanchedalmond;
+}
+.second h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.second img{
+    width: 150px;
+    height: 150px;
+}
